@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Shop",
+  "description": "A premium, modern e-commerce application with glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
